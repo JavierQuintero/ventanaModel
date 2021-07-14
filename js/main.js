@@ -1,0 +1,1 @@
+import {createCustomElement} from "./app";
